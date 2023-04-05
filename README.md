@@ -42,5 +42,8 @@ operations:
   (e.g, 2%), and the application shows the total amount of money that would be
   spent in each of the next N years by applying inflation (starting after the most
   recent full year, 2022).
-  
+
+
+Here is a quick link to the app
+http://dbcourse.cs.smu.ca/~u10/project/public_html/index.php
   
